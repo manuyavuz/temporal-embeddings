@@ -27,3 +27,7 @@
 # Surveys
 - [Diachronic word embeddings and semantic shifts: a survey](https://aclweb.org/anthology/C18-1117)
 - [A state-of-the-art of semantic change computation](https://arxiv.org/abs/1801.09872)
+
+--- 
+Contact : manuyavuz@gmail.com  
+GitHub : https://github.com/manuyavuz
